@@ -1,0 +1,16 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"type": "bochs",
+			"request": "launch",
+			"name": "Launch",
+			"asmFilePath": "..\\pbr.asm",
+			"asmLstFilePath": "pbr.lst",
+			"bochsConfigurePath": "oranges.bxrc",
+			"workingDir":"${workspaceFolder}\\.out\\",
+			"bochsPath": "C:\\Program Files (x86)\\Bochs-2.4.5\\",
+			"preLaunchTask": "compile"
+		}
+	]
+}

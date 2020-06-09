@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "*.nas": "asm",
+        "*.vb": "vb",
+        "*.bas": "abasic",
+        "pic.h": "c",
+        "type.h": "c",
+        "video.h": "c",
+        "string.h": "c"
+    },
+    "C_Cpp.default.cStandard": "c11",
+    "C_Cpp.default.intelliSenseMode": "gcc-x86",
+    "C_Cpp.default.includePath": null,
+    "C_Cpp.default.systemIncludePath": null
+}
